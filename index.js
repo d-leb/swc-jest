@@ -1,1 +1,3 @@
-export * from '@jest/globals'
+module.exports = {
+  ...require('@jest/globals'),
+}
