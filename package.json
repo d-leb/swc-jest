@@ -33,7 +33,7 @@
     "prettier:fix": "prettier --write 'scripts/**/*.mjs' 'bin/**/*.mjs' 'index.js' 'index.d.ts'"
   },
   "dependencies": {
-    "@jest/globals": "29.5.0",
+    "@jest/globals": "29.6.1",
     "@swc/core": "1.3.67",
     "@swc/helpers": "0.5.1",
     "@swc/jest": "0.2.26",
